@@ -1,3 +1,4 @@
+工大？哪个工大？
 # ShadowsocksR C# 版本4.7.0 #
 
 BitTorrent Sync：BHS55LP54SO7A434QBB5Z2O6B7A45B2BX  
